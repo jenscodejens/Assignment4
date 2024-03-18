@@ -4,13 +4,13 @@ Bytte några ord med Dimitri efter föreläsningen om Dictionary, jag hade snapp
 Men Dictionary gjorde mig nyfiken och jag var omedveten om att jag läst uppgiten fel(se nedan).
 
 Så jag tyckte det var en bra ide att ägna idag åt att öva in lite av följande:
-Dictionary
-Extension method
-Linq
-RegEx
-XML
-Lambda
-m.m
+- Dictionary
+- Extension method
+- Linq
+- RegEx
+- XML
+- Lambda
+- m.m
 
 Dock när jag slöchattade med en annan elev på Discord nu sent ikväll så gjorde hon mig uppmärksam på att jag läst fel. Jag hade läst för hastigt och inte sett att opening bracket måste följas av en closing INNAN checken går vidare.
 Jag trodde uppgiften gick ut på att checka att öppna motsvarades stängda. Så satte mig ned för att försöka fixa detta.
