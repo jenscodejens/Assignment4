@@ -14,7 +14,7 @@ Så jag tyckte det var en bra ide att ägna idag åt att öva in lite av följan
 
 Dock när jag slöchattade med en annan elev på Discord nu sent ikväll så gjorde hon mig uppmärksam på att jag läst fel. Jag hade läst för hastigt och inte sett att opening bracket måste följas av en closing INNAN checken går vidare.
 Jag trodde uppgiften gick ut på att checka att öppna motsvarades stängda. Så satte mig ned för att försöka fixa detta.
-Men det gick inte, åtminstone kunde jag inte klura ut hur jag i extensionmetoden, förutom att ge Enque en counter som ökades på för varje eventuell hit av en bracket, även skulle få ett index så jag kunde lösa att ordningen spelar in i checken.
+Men det gick inte, åtminstone kunde jag inte klura ut hur jag i extensionmetoden, förutom att ge Enque en counter som ökades på för varje eventuell hit av en bracket, även skulle spara ett index så jag kunde lösa att ordningen spelar in i checken.
 
 Så då kunde jag inte lösa den sent upptäckta korrekta frågeställningen.
 Och nu är klockar 00:12 och jag vill inte ha en "allniter" för att läsa upp på stack.pop/push som jag vet om finns och sedan göra om hela uppgiften.
