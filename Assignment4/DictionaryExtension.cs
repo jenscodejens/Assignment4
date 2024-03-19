@@ -1,6 +1,6 @@
 ﻿namespace Assignment4
 {
-    // Fick göra extension på Enqueue eftersom mitt dictionary inte fyller någon
+    // Fick göra extension eftersom mitt dictionary inte fyller någon
     // funktion om inte antalet en viss char förekommer.
     public static class DictionaryExtension
     {
