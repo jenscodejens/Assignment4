@@ -36,7 +36,7 @@ namespace Assignment4
         }
 
         // Lägger in {([ i dictionary först, sedan })]
-        // Här används extension av Enqueue (DictionaryExtension.cs)
+        // Här används extension av Dictionary som tar hand om antalet träffar av en parantes
         public static void PutCharInDictionary(string userInput)
         {
             MatchCollection allOpeningMatches = Regex.Matches(userInput, openingPattern);
